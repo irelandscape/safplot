@@ -14,5 +14,8 @@ cd examples/@lemouth_exercises/1c/
 python ./ex1c.py -i ./histos.saf -o ex1c.png
 ```
 
+Result is as follows:
+![Example histogram](https://s22.postimg.cc/qokux6m81/histos.png)
+
 # REFERENCES
 - Madanalysis 5 (https://launchpad.net/madanalysis5): MadAnalysis 5 is a framework for phenomenological investigations at particle colliders.
