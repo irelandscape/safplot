@@ -15,6 +15,7 @@ python ./ex1c.py -i ./histos.saf -o ex1c.png
 ```
 
 Result is as follows:
+
 ![Example histogram](https://s22.postimg.cc/qokux6m81/histos.png)
 
 # REFERENCES
